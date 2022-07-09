@@ -1,0 +1,42 @@
+{
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Fira Code Retina",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "breadcrumbs.enabled": false,
+    "workbench.editor.pinnedTabSizing": "compact",
+    "editor.tabSize": 4,
+    "emmet.showAbbreviationSuggestions": true,
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "window.title": "Chrome Extension Basic",
+    "window.autoDetectColorScheme": false,
+    "window.titleSeparator": " - ",
+    "workbench.editor.tabCloseButton": "right",
+    "workbench.colorTheme": "GitHub Light",
+    "workbench.startupEditor": "welcomePage",
+    "workbench.activityBar.visible": false,
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#fbed80",
+        "activityBar.activeBorder": "#06b9a5",
+        "activityBar.background": "#fbed80",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#06b9a5",
+        "activityBarBadge.foreground": "#15202b",
+        "sash.hoverBorder": "#fbed80",
+        "statusBar.background": "#f9e64f",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#f7df1e",
+        "statusBarItem.remoteBackground": "#f9e64f",
+        "statusBarItem.remoteForeground": "#15202b",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveForeground": "#15202b99",
+        "titleBar.activeBackground": "#f9e64f",
+        "titleBar.inactiveBackground": "#f9e64f99",
+        "sideBar.background": "#fff"
+    },
+    "peacock.color": "#f9e64f",
+    "[jsonc]": {
+        "editor.defaultFormatter": "rvest.vs-code-prettier-eslint"
+    }
+}

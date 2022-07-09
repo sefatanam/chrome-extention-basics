@@ -1,0 +1,36 @@
+html {
+    width: 280px;
+    padding: 0 10px;
+}
+
+button {
+    text-transform: uppercase;
+    color: white;
+    background-color: blue;
+    transition: all .2s ease-in-out;
+    height: 1.9125rem;    
+    padding: 0 1rem;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    text-align: center;
+    user-select: none;
+    letter-spacing: .03em;
+}
+
+button:hover, .btn:hover {
+    background-color: green;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#ip {
+    font-weight: 500;
+    font-size: 28px;
+    color: #444;
+    text-align: center;
+}
